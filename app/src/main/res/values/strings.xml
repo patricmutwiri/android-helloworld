@@ -2,7 +2,7 @@
     <string name="app_name">Mutwiri</string>
     <string name="hello">Hello Patrick</string>
     <string name="topic">About: Activities\' intro</string>
-
+    <string name="text3">Text test</string>
     <string name="calc">Calculator</string>
     <string name="number1">Enter number</string>
     <string name="op1">Enter operator</string>
